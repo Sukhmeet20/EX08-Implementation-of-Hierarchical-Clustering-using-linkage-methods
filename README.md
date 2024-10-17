@@ -14,7 +14,7 @@ To implement Hierarchical Clustering using single and complete linkage method
 ```
 /*
 Program to implement Hierarchical Clustering using single and complete linkage method
-Developed by: 
+Developed by: S
 RegisterNumber:  
 */
 ```
